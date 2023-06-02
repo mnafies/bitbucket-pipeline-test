@@ -130,3 +130,5 @@ CMD [ "npm", "start" ]
 
 ![image](https://github.com/mnafies/b3networks-technical-test/assets/52950376/3615e0a7-8628-40da-bcdd-b99d63aa00a0)
 
+![image](https://github.com/mnafies/b3networks-technical-test/assets/52950376/e5f2cbc5-f009-4b0a-aaa8-c405892e9efd)
+
