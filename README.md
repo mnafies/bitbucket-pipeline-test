@@ -55,7 +55,11 @@ Dan juga membuat ssh key pair yang akan saya tambahkan pada authorized_keys pada
 
 ## Bitbucket Pipelines
 
-Berikut proses saya melakukan CI/CD dengan Bitbucket Pipelines
+Berikut proses saya melakukan CI/CD dengan Bitbucket Pipelines, adapun step yang saya lakukan yaitu :
+- Check Server Connection  
+- Build & Push Docker
+- Install Docker on Server
+- Running App on top Docker (React App)
 
 `bitbucket-pipelines.yml`
 
