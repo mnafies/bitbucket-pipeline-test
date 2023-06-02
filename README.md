@@ -39,10 +39,13 @@ Adapun saya membuat file baru seperti
 
 ## Repository variables & SSH Key Pair
 
-Sebelum melakukan pipeline ada beberapa credentials yang perlu saya buat seperti :
+Sebelum melakukan pipeline ada beberapa credentials yang perlu saya buat pada Repository variables seperti :
 - USER = user server
 - SERVER = ip server
 - SSH_KEY = private key yang sudah di encode
+- PASS_DOCKER = password docker account
+
+![image](https://github.com/mnafies/b3networks-technical-test/assets/52950376/a6d134ee-c3cf-42ba-a6ca-b37cb6f64245)
 
 Dan juga membuat ssh key pair yang akan saya tambahkan pada authorized_keys pada server sebagai izin pengenal
 
