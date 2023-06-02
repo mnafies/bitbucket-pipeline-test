@@ -122,8 +122,11 @@ CMD [ "npm", "start" ]
 
 ![image](https://github.com/mnafies/b3networks-technical-test/assets/52950376/9e427599-813e-41b7-9962-52a3df3e3dec)
 
-`http://18.140.54.231:3000`
+[18.140.54.231](http://18.140.54.231:3000)
 
 ![image](https://github.com/mnafies/b3networks-technical-test/assets/52950376/6a992ac9-ee23-4511-97b9-a701c90d5d5d)
 
-          
+[nikymn/dumbmerch:latest](https://hub.docker.com/r/nikymn/dumbmerch)
+
+![image](https://github.com/mnafies/b3networks-technical-test/assets/52950376/3615e0a7-8628-40da-bcdd-b99d63aa00a0)
+
